@@ -105,15 +105,9 @@ requirements.txt
 
 ## API Endpoints
 
-### Upload Chat Data
-
-- **Endpoint:** `/api/upload`
-- **Method:** `POST`
-- **Description:** Upload WhatsApp chat data.
-
 ### Query the Chatbot
 
-- **Endpoint:** `/api/query`
+- **Endpoint:** `/api/ask`
 - **Method:** `POST`
 - **Description:** Send a query to the chatbot and receive a response.
 
