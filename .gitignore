@@ -1,0 +1,55 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Compiled Python modules
+*.pyc
+*.pyo
+
+# Pipenv environment
+.venv
+Pipfile.lock
+
+# Poetry environment
+poetry.lock
+
+# PyCharm files
+.idea/
+
+# VS Code files
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*~
+
+# Environment variables file
+.env
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.out
+
+# Docker files
+docker-compose.yml
+/docker/
+
+
+#file to ignore
+/data/chat
+/data/embeddings
