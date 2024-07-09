@@ -113,12 +113,6 @@ requirements.txt
 
 ### Example Request
 
-**Upload Chat Data:**
-
-```bash
-curl -X POST -F "file=@path_to_your_file" http://localhost:5000/api/upload
-```
-
 **Query the Chatbot:**
 
 ```bash
